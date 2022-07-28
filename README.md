@@ -19,4 +19,4 @@ For more information check at https://blog.ungroschatonroux.myds.me/posts/sutom/
 **Screenshots**
 
 ![alt text](https://github.com/H0henheim/autosutom/blob/main/auto_sutom.png)
-![alt text](https://github.com/H0henheim/autosutom/blob/main/wordle.png)
+![alt text](https://github.com/H0henheim/autosutom/blob/main/auto_wordle.png)
