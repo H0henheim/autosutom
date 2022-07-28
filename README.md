@@ -1,5 +1,6 @@
-# autosutom
-Resolve Sutom or Wordle games with regex
+# Resolve Sutom or Wordle with regex
+
+This program resolve Sutom or Wordle games with regex in very few tries.
 
 Be sure to have Tkinter module installed before launching the script. It is normally included with all standard Python distributions. 
 
